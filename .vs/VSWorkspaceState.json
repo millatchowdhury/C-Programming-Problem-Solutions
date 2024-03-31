@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HelloWorld",
+    "\\HelloWorld\\HelloWorld",
+    "\\HelloWorld\\HelloWorld\\HelloWorld"
+  ],
+  "SelectedNode": "\\HelloWorld\\HelloWorld\\HelloWorld\\hello.c",
+  "PreviewInSolutionExplorer": false
+}

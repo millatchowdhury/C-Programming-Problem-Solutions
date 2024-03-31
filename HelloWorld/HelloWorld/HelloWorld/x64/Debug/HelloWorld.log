@@ -1,0 +1,4 @@
+﻿  hello.c
+C:\Users\admin\Desktop\Programming in C\HelloWorld\HelloWorld\HelloWorld\hello.c(5,2): warning C4013: 'display' undefined; assuming extern returning int
+C:\Users\admin\Desktop\Programming in C\HelloWorld\HelloWorld\HelloWorld\hello.c(10,1): warning C4716: 'display': must return a value
+  HelloWorld.vcxproj -> C:\Users\admin\Desktop\Programming in C\HelloWorld\HelloWorld\x64\Debug\HelloWorld.exe
